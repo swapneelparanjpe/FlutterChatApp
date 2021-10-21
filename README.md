@@ -2,6 +2,8 @@
 
 A simple chatting application made with Flutter to connect with your friends.
 
+<br><br>
+
 ## Screenshots
 <p>
   <img width="216" hspace="20" alt="Login screen" src="https://user-images.githubusercontent.com/67222214/138259071-02b9beb6-542f-4bb1-b42c-5746001aa4da.png">
